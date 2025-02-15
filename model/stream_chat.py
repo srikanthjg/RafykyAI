@@ -14,7 +14,6 @@ if not API_KEY:
 
 genai.configure(api_key=API_KEY)
 
-
 # Instantiate te model
 generation_config = {
   "temperature": 1,
@@ -68,3 +67,4 @@ while True:
 
     except Exception as e:
         print("\n❌ Error:", str(e))
+

@@ -1,0 +1,18 @@
+{
+    "conversation": [
+      {"time": 0, "speaker": "Alice", "text": "Alright, Tom, let's go over the sales targets for this quarter."},
+      {"time": 2, "speaker": "Tom", "text": "Sounds good, Alice. Where do you want to start?"},
+      {"time": 4, "speaker": "Alice", "text": "Let's begin with electronics. Last quarter, we aimed for $500,000, but we hit $450,000."},
+      {"time": 6, "speaker": "Tom", "text": "Right. Given market conditions, I’d say we should set a realistic goal of $480,000."},
+      {"time": 8, "speaker": "Alice", "text": "That makes sense. A gradual increase seems reasonable."},
+      {"time": 10, "speaker": "Tom", "text": "Next, home appliances. We hit $300,000 last quarter, exceeding our $280,000 target."},
+      {"time": 12, "speaker": "Alice", "text": "Yes, I think we can push to $320,000 without much risk."},
+      {"time": 14, "speaker": "Tom", "text": "Agreed. Now, what about office supplies? We underperformed there."},
+      {"time": 16, "speaker": "Alice", "text": "True, $150,000 instead of $180,000. Maybe we adjust down to $160,000?"},
+      {"time": 18, "speaker": "Tom", "text": "That works. Let’s also increase marketing efforts for that segment."},
+      {"time": 20, "speaker": "Alice", "text": "Good idea. And for furniture, we surpassed $200,000. Should we go for $230,000?"},
+      {"time": 22, "speaker": "Tom", "text": "A bit ambitious, but doable if we add some promotions."},
+      {"time": 24, "speaker": "Alice", "text": "Alright, let’s finalize these numbers and get them approved."},
+      {"time": 26, "speaker": "Tom", "text": "Sounds like a plan. I think we’ve found a good balance here."}
+    ]
+  }
