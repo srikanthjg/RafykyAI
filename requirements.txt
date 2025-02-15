@@ -1,0 +1,6 @@
+
+# to read API key from env file 
+python-dotenv
+
+# for Gemini
+google-generativeai
