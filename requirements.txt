@@ -4,3 +4,8 @@ python-dotenv
 
 # for Gemini
 google-generativeai
+
+# Web API
+fastapi 
+uvicorn
+websockets
