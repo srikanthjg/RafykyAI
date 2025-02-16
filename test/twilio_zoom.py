@@ -18,10 +18,6 @@ zoom_dial_in_number = input("Enter zoom dial-in number:") # e.g., "+19876543210"
 zoom_meeting_id = input("Enter zoom meeting id:")          # e.g., "1234567890"
 zoom_passcode = input("Enter zoom pass code:")          # Optional
 
-zoom_dial_in_number="+1 360 209 5623"
-zoom_meeting_id="831 1659 3511"
-zoom_passcode="118816"
-
 # Construct the DTMF sequence:
 # Use "w" to wait (each "w" is a short pause) then the meeting ID, then "#" to indicate end.
 # If a passcode is needed, append it (followed by "#").
