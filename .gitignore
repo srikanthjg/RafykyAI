@@ -133,6 +133,7 @@ celerybeat.pid
 env/
 venv/
 ENV/
+myenv/
 env.bak/
 venv.bak/
 
@@ -169,3 +170,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+/twilio-chatbot/.env*
+/twilio-chatbot/env.example

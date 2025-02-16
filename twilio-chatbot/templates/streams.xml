@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Connect>
+    <Stream url="wss://a437-2601-646-9984-de40-185f-99-bb8f-76da.ngrok-free.app/ws" />
+  </Connect>
+  <Pause length="40"/>
+</Response>
